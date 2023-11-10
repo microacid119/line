@@ -80,19 +80,19 @@ function linkToAnotherLanguage(val) {
     // 这里根据语言值进行操作，例如跳转到对应语言的页面
     // 以下为示例，根据实际需要进行修改
     if (val === 'zh') {
-      window.location.href = `http://${window.location.hostname}:5500/index-h5.html`
+      window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-h5.html`
     }
   
     if (val === 'en') {
-      window.location.href = `http://${window.location.hostname}:5500/index-h5-en.html`
+      window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-h5-en.html`
     }
   
     if (val === 'th') {
-      window.location.href = `http://${window.location.hostname}:5500/index-h5-th.html`
+      window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-h5-th.html`
     }
   
     if (val === 'vi') {
-      window.location.href = `http://${window.location.hostname}:5500/index-h5-vi.html`
+      window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-h5-vi.html`
     }
   }
 

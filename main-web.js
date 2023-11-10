@@ -8,19 +8,19 @@ function toggleLanguagelist() {
 
 function linkToAnotherLanguage(val) {
   if (val === 'zh') {
-    window.location.href = `http://${window.location.hostname}:5500/index-web.html`
+    window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-web.html`
   }
 
   if (val === 'en') {
-    window.location.href = `http://${window.location.hostname}:5500/index-web-en.html`
+    window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-web-en.html`
   }
 
   if (val === 'th') {
-    window.location.href = `http://${window.location.hostname}:5500/index-web-th.html`
+    window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-web-th.html`
   }
 
   if (val === 'vi') {
-    window.location.href = `http://${window.location.hostname}:5500/index-web-vi.html`
+    window.location.href = `https://cosmic-biscotti-255d94.netlify.app/index-web-vi.html`
   } 
 }
 
